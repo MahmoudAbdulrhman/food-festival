@@ -1,0 +1,28 @@
+{
+  "name": "food-festival",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MahmoudAbdulrhman/food-festival.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MahmoudAbdulrhman/food-festival/issues"
+  },
+  "homepage": "https://github.com/MahmoudAbdulrhman/food-festival#readme",
+  "devDependencies": {
+    "webpack": "^5.8.0",
+    "webpack-cli": "^4.2.0"
+  },
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
